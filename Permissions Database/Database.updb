@@ -5276,3 +5276,25 @@ ReportManager+reportmanager.admin+Admin access
 ReportManager+reportmanager.dev+Access to all commands
 AskMe+askme.ask+Ask sth online staff+/ask
 AskMe+askme.ans+Access to /ans command+/ans
+VipFeatures+vipfeatures.open.maingui+required to receive (if enabled) and open the main GUI containing the categories+/vipfeatures
+VipFeatures+vipfeatures.open.trails+required to view, open trails category in Main GUI and use trails
+VipFeatures+vipfeatures.open.spells+reqired to view, open spells category in Main GUI and use spells
+VipFeatures+vipfeatures.open.particles+required to view, open particle effects category in Main GUI and use particles
+VipFeatures+vipfeatures.open.boosters+required to view, open boosters category in Main GUI and use boosters
+VipFezatures+vipfeatures.trails.fire+gives access to Fire Trail
+VipFeatures+vipfeatures.trails.slime+gives access to Slime Trail
+VipFeatures+vipfeatures.trails.notes+gives access to Notes Trail
+VipFeatures+vipfeatures.trails.crystal+gives access to Crystal Trail
+VipFeatures+vipfeatures.spells.explosive+gives access to Explosion Spell
+VipFeatures+vipfeatures.spells.fire+gives access to Fire Spell
+VipFeatures+vipfeatures.spells.web+gives access to Web Spell
+VipFeatures+vipfeatures.spells.zombie+gives access to Zombie Spell
+VipFeatures+vipfeatures.spells.poisen+gives access to Poisen Spell
+VipFeatures+vipfeatures.particles.spiral+gives access to Spiral Particles
+VipFeatures+vipfeatures.particles.angryvillager+gives access to Angry Villager Particles
+VipFeatures+vipfeatures.particles.doublewitch+gives access to Double Witch Particles
+VipFeatures+vipfeatures.particles.notes+gives access to Notes Particles
+VipFeatures+vipfeatures.particles.magic+gives access to Magic Particles
+VipFeatures+vipfeatures.particles.happyvillager+gives access to Happy Villager Particles
+VipFeatures+vipfeatures.boosters.x2+gives access to x2 Booster
+VipFeatures+vipfeatures.boosters.x3+gives access to x3 Booster
